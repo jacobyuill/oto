@@ -14,10 +14,11 @@ Wrapper for SoX in PySide6 for lightweight and easy white noise generation. **Di
 
 ## ⚙️ Prerequisites
 
+- a POSIX system (Linux/Mac **not** Windows)
+  * Untested on Mac, but should work
 - Python 3.x
-- SoX 
-  * On POSIX systems, ensure this is in your PATH
-  * untested on Windows and Mac
+- SoX
+  * Please ensure this is in your PATH
 
 
 ## 🚀 Installation
