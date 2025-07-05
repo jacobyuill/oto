@@ -19,7 +19,6 @@ Wrapper for SoX in PySide6 for lightweight and easy white noise generation. **Di
   * On POSIX systems, ensure this is in your PATH
   * untested on Windows and Mac
 
-For other systems, please refer to the [sox documentation](http://sox.sourceforge.net/).
 
 ## 🚀 Installation
 
