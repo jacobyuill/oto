@@ -3,7 +3,7 @@
   <h1>oto</h1>
 </div>
 
-Wrapper for SoX in PySide6 for lightweight and easy white noise generation. **Disclaimer: Still WIP and created simply for my personal use.**
+Wrapper for SoX created with PySide6, designed lightweight and easy white noise generation. **Disclaimer: Still WIP and created simply for my personal use.**
 
 ## 🎵 Features
 
