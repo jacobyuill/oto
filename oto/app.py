@@ -84,7 +84,7 @@ class MainWindow(QMainWindow):
 
     def set_volume(self):
         self.volume = self.volume_le.text()
-        if int(self.volume) > 1:
+        if float(self.volume) > 1.0:
             self.volume = "1"
 
     def exec_cmd(self):
