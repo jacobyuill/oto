@@ -84,7 +84,10 @@ class MainWindow(QMainWindow):
 
     def set_volume(self):
         self.volume = self.volume_le.text()
+        
+        #prevent eardrums from being ruptured, no vals > 1
         if float(self.volume) > 1.0:
+            print("User inputted value over max, setting to 1")
             self.volume = "1"
 
     def exec_cmd(self):
