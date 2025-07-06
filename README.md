@@ -3,7 +3,7 @@
   <h1>oto</h1>
 </div>
 
-Wrapper for SoX in PySide6 for lightweight and easy white noise generation. **Disclaimer: Still WIP and created simply for my personal use.**
+Wrapper for SoX created with PySide6, designed lightweight and easy white noise generation. **Disclaimer: Still WIP and created simply for my personal use.**
 
 ## 🎵 Features
 
@@ -14,12 +14,12 @@ Wrapper for SoX in PySide6 for lightweight and easy white noise generation. **Di
 
 ## ⚙️ Prerequisites
 
+- a POSIX system (Linux/Mac **not** Windows)
+  * Untested on Mac, but should work
 - Python 3.x
-- SoX 
-  * On POSIX systems, ensure this is in your PATH
-  * untested on Windows and Mac
+- SoX
+  * Please ensure this is in your PATH
 
-For other systems, please refer to the [sox documentation](http://sox.sourceforge.net/).
 
 ## 🚀 Installation
 
